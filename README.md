@@ -3,10 +3,10 @@
   - Functionalities
     - `Table` for list of sales
     - `Graph` to show relation between retailerMargin & UnitSold
+    - `Sortable Table` based on columns (sender, receiver, currency)
 
 ## Running Code
   - Client
-    - `cd my-app`
     - `npm install`
     - `npm start`
     - localhost:3000 to view the code
