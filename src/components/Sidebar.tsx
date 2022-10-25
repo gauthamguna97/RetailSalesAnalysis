@@ -1,7 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { RootState } from '../app/store';
-import { data } from '../data/data';
 import { ListState } from '../features/productData/productDataSlice';
 import '../styles/sidebar.css';
 

@@ -4,7 +4,7 @@ import stackline_logo from '../logos/stackline_logo.svg'
 
 const Header = () => {
     return <header>
-        <img src={stackline_logo} />
+        <img src={stackline_logo} alt='stackline logo' />
     </header>
 }
 
